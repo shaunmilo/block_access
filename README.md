@@ -1,7 +1,7 @@
 # About this module
 Very basic D8 version of block_access. Doesn't add all the permissions for the various tabs/visibility etc that block_access on D7 does.
 
-# What it does do
+# What it does
 Adds permissions for editing block content - e.g 
 
 - 'edit own|any {type} block content'
